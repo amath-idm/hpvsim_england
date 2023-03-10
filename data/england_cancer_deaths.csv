@@ -1,0 +1,17 @@
+year,name,age,sex,genotype,value
+2020,cancer_deaths,0,female,total,0
+2020,cancer_deaths,15,female,total,6
+2020,cancer_deaths,20,female,total,15
+2020,cancer_deaths,25,female,total,29
+2020,cancer_deaths,30,female,total,46
+2020,cancer_deaths,35,female,total,63
+2020,cancer_deaths,40,female,total,71
+2020,cancer_deaths,45,female,total,83
+2020,cancer_deaths,50,female,total,93
+2020,cancer_deaths,55,female,total,88
+2020,cancer_deaths,60,female,total,88
+2020,cancer_deaths,65,female,total,95
+2020,cancer_deaths,70,female,total,117
+2020,cancer_deaths,75,female,total,104
+2020,cancer_deaths,80,female,total,97
+2020,cancer_deaths,85,female,total,126
